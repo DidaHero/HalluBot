@@ -2,6 +2,8 @@
 
 **Plausibel klingt nicht immer richtig.** HalluBot ist eine interaktive Browser-Demo zum Erkennen von Halluzinationen: Aus einer Dokumentkollektion rund um Eierkuchen entstehen Antworten, die bewusst einen Halluzinationssatz enthalten. Finde den verdächtigen Satz und prüfe anschließend die Auflösung samt Quellen.
 
+Probiere das Tool hier aus: https://didahero.github.io/HalluBot/
+
 ## Loslegen
 
 1. `HalluBot.html` im Browser öffnen – keine Installation erforderlich.
