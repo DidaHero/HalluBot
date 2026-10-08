@@ -6,7 +6,7 @@ Probiere das Tool hier aus: https://didahero.github.io/HalluBot/
 
 ## Loslegen
 
-1. `HalluBot.html` im Browser öffnen – keine Installation erforderlich.
+1. `index.html` im Browser öffnen – keine Installation erforderlich.
 2. Eine Frage eingeben und den vermuteten Halluzinationssatz anklicken.
 3. **Auflösung anzeigen** wählen: Die Halluzination wird rot unterstrichen, die verwendeten Quellen werden sichtbar.
 
